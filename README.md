@@ -1,19 +1,18 @@
 ### Olá, eu sou o Esaú 👋
 
 - 📚 Sou estudante de Sistemas de Informação
-- 👨‍💻 Estou estudando atualmente SQL, Javascript, Java e HTML
+- 👨‍💻 Atualmente estou estudando SQL, Javascript, Java e HTML
 
   ##
 <div align="center"> 
-  <h3 align="left">Meus Status</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=esaupdn&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" alt="esaupdn's github stats" /> 
+  <h3 align="left">Git Stats</h3>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=esaudpn&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" alt="esaupdn's github stats" /> 
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaupdn&layout=compact&hide_border=true&title_color=823cd6&text_color=ffffff&bg_color=0d1117" />
 </div>
 
   ##
 <div style="display: inline_block">
-  <h3>Linguagens de Programação:
-  </h3>
+  <h3>Languages</h3>
   <img align="center" alt="PureC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -26,9 +25,16 @@
 
   ##
 <div align="left" >
-  <h3>Contato</h3>
+  <h3>Contact</h3>
   <a href="https://instagram.com/esaupdn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:esaupaivanascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:esaupaivadonascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/esaupdn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+<div align="center">
+  
+  
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=150&section=footer"/>
