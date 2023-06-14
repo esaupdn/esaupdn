@@ -4,11 +4,14 @@
 - 👨‍💻 Atualmente estou estudando SQL, Javascript, Java e HTML
 
   ##
-<div align="center"> 
-  <h3 align="left">Git Stats</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=esaudpn&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" alt="esaupdn's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaupdn&layout=compact&hide_border=true&title_color=823cd6&text_color=ffffff&bg_color=0d1117" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/etmjr03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esaupdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaupdn&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 
   ##
 <div style="display: inline_block">
