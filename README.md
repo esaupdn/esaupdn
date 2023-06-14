@@ -3,7 +3,8 @@
 - 📚 Sou estudante de Sistemas de Informação
 - 👨‍💻 Atualmente estou estudando SQL, Javascript, Java e HTML
 
-  ##
+  ## 
+### Git Stats
 </div>
 
 <div align="center">
