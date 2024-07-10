@@ -25,7 +25,7 @@
   <img align="center" alt="-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-  <img align="center" alt="-Android" height="40" width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--H40ocFOu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/nedy123/image/upload/v1560565889/Screenshot_2019-06-15_at_3.28.03_AM_hij9sw.png" />
+  <img align="center" alt="-Android" height="40" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dandroid&psig=AOvVaw1d1R4nZfLny9vk_wVkgO_L&ust=1720721296611000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPj_lb-InYcDFQAAAAAdAAAAABAE" />
 </div>
 
   ##
