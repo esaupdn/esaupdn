@@ -1,7 +1,7 @@
 ### Olá, eu sou o Esaú 👋
 
-- 📚 Sou estudante de Sistemas de Informação, Atualmente no 4º Período
-- 👨‍💻 Estou estudando POO e Desenvolvimento Web
+- 📚 Sou estudante de Sistemas de Informação, Atualmente no 5º Período
+- 👨‍💻 Atualmente estou estudando Desenvolvimento Mobile e Desenvolvimento Web
 
   ## 
 ### Git Stats
