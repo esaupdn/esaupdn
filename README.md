@@ -4,7 +4,7 @@
 - 👨‍💻 Atualmente estou estudando Desenvolvimento Mobile e Desenvolvimento Web
 
   ## 
-### Git Stats
+### Stats
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
   ##
 <div style="display: inline_block">
-  <h3>Languages</h3>
+  <h3>Linguagens e Tecnologias</h3>
   <img align="center" alt="PureC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -30,7 +30,7 @@
 
   ##
 <div align="left" >
-  <h3>Contact</h3>
+  <h3>Contato</h3>
   <a href="https://instagram.com/esaupdn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:esaupaivadonascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/esaupdn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
