@@ -1,6 +1,6 @@
 ### Olá, eu sou o Esaú 👋
 
-- 📚 Sou estudante de Sistemas de Informação, Atualmente no 5º Período
+- 📚 Sou estudante de Sistemas de Informação, Atualmente no 7º Período
 - 👨‍💻 Atualmente estou estudando Desenvolvimento Mobile e Desenvolvimento Web
 
   ## 
