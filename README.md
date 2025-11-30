@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ab0fd&height=150&section=header"/>
-
 ### Olá, eu sou o Esaú 👋
 
 🎯 **Analista de Segurança da Informação**  
